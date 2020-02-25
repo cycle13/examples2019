@@ -1,0 +1,18 @@
+name: effient-gpu
+dependencies:
+    - numpy=1.17.2
+    - pandas=0.23.3
+    - pandas-datareader=0.6.0
+    - matplotlib=3.1.0
+    - tensorflow-gpu=1.15.0
+    - pillow=6.2.0
+    - scipy=1.2.1
+    - keras=2.2.5
+    - python=3.6.6
+    - pip=19.2.3
+    - pip:
+        - opencv-contrib_python==3.4.2.17
+        - opencv-python==3.4.2.17
+        - progressbar2
+        
+
