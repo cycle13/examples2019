@@ -1,0 +1,18 @@
+2019-08-05 17:01:38,909 -                mainModule - INFO - creating an instance of subModule.subModuleClass
+2019-08-05 17:01:38,909 -     mainModule.sub.module - INFO - creating an instance in SubModuleClass
+2019-08-05 17:01:38,909 -                mainModule - INFO - calling subModule.subModuleClass.doSomething
+2019-08-05 17:01:38,909 -     mainModule.sub.module - INFO - do something in SubModule.Class.Method
+2019-08-05 17:01:38,909 -     mainModule.sub.module - INFO - finish something in SubModule.Class.Method
+2019-08-05 17:01:38,909 -                mainModule - INFO - done with  subModule.subModuleClass.doSomething
+2019-08-05 17:01:38,909 -                mainModule - INFO - calling subModule.some_function
+2019-08-05 17:01:38,909 -            mainModule.sub - INFO - call function from subModule.Fun
+2019-08-05 17:01:38,909 -                mainModule - INFO - done with subModule.some_function
+2019-08-05 17:02:21,454 -                mainModule - INFO - creating an instance of subModule.subModuleClass
+2019-08-05 17:02:21,454 -     mainModule.sub.module - INFO - creating an instance in SubModuleClass
+2019-08-05 17:02:21,454 -                mainModule - INFO - calling subModule.subModuleClass.doSomething
+2019-08-05 17:02:21,454 -     mainModule.sub.module - INFO - do something in SubModule.Class.Method
+2019-08-05 17:02:21,454 -     mainModule.sub.module - INFO - finish something in SubModule.Class.Method
+2019-08-05 17:02:21,454 -                mainModule - INFO - done with  subModule.subModuleClass.doSomething
+2019-08-05 17:02:21,454 -                mainModule - INFO - calling subModule.some_function
+2019-08-05 17:02:21,454 -            mainModule.sub - INFO - call function from subModule.Fun
+2019-08-05 17:02:21,454 -                mainModule - INFO - done with subModule.some_function
